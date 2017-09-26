@@ -39,7 +39,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 ## K
 ## L
-* **Liquid**: Liquid es un motor de templates con el que podemos darle estilo a paginas HTML. Este motor es utilizado por GitHub para cuando creamos nuestra página web y no queremos tener una hoja de estilo nos da la opción de darle estilo mediante un tema predeterminado que utiliza este motor.
+* **Liquid**:Liquid es un motor de templates con el que podemos darle estilo a paginas HTML. Este motor es utilizado por GitHub para cuando creamos nuestra página web y no queremos tener una hoja de estilo nos da la opción de darle estilo mediante un tema predeterminado que utiliza este motor.
 ## M
 * **Markdown**: Es un Lenguaje de Marcas mas simple que otros que conocemos como  HTML o XML. Además de ser mas sencillo es mas legible. Por ejemplo en html para escribir un titulo grande pues tendriamos que poner:<pre> '&lt;h1&gt;HOLA&lt;/h1&gt;' </pre> Y en Markdown: <pre>'# HOLA'</pre>  
 
