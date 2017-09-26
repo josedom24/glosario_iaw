@@ -6,7 +6,9 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 ## A
 
-* **Aplicación web**:
+
+
+* **Aplicación web**:Es un tipo de software que se codifica en un tipo de lenguaje que es soportado por los navegadores web.
 
 ## B
 ## C
@@ -21,8 +23,8 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## F
 ## G
 
-* **GitHub**:
-* **GitHub Pages**:
+* **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
+* **GitHub Pages**: Es un sitio para nuestros proyectos los cuales nos permite tenerlos alojados en una pagina web sin necesidad de tener conocimientos en servidores.
 
 ## H
 ## I
@@ -33,7 +35,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 * **java**:
 * **javascript**:
-* **Jekyl**:
+* **Jekyll**: Es un motor para crear páginas web estáicas. Está escrito en ruby y es de código abierto.
 
 ## K
 ## L
@@ -47,12 +49,12 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## P
 
 * **php**:
-* **python**:
+* **python**: Es un lenguaje de programación interpretado cuyo principal objetivo es ser facilmente legible. Es multiplataforma ya que soporta orientación a objetos, programación imperativa y funcional. Tiene tipado dinámico. Es de código abierto con licencia GNU.
 
 ## Q
 ## R
 
-* **ruby**:
+* **ruby**: Es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto.
 
 ## S
 ## T
