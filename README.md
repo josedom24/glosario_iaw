@@ -21,7 +21,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## F
 ## G
 
-* **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
+* **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Utiliza el framework Ruby on Rails por GitHub, Inc.
 * **GitHub Pages**:
 
 ## H
