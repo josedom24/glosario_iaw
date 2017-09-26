@@ -60,7 +60,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## U
 ## V
 
-* **vagrant**: Herramienta que facilita la creación de entornos virtuales rápidamente mediante simples ficheros de configuración. Esto facilita llevar un control de versiones como si se tratara del código de un programa.
+* **vagrant**: Herramienta para la creación de entornos virtuales rápidamente mediante simples ficheros de configuración. Esto facilita llevar un control de versiones como si se tratara del código de un programa.
 
 ## W
 ## X
