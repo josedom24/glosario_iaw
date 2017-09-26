@@ -6,7 +6,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 ## A
 
-* **Aplicación web**:
+* **Aplicación web**: Herramienta que ofrece distintas funcionalidades, desplegada en un servidor web.
 
 ## B
 ## C
