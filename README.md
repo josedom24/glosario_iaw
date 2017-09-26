@@ -6,7 +6,9 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 ## A
 
-* **Aplicación web**:
+
+
+* **Aplicación web**:Es un tipo de software que se codifica en un tipo de lenguaje que es soportado por los navegadores web.
 
 ## B
 ## C
@@ -21,8 +23,13 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## F
 ## G
 
+<<<<<<< HEAD
 * **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Utiliza el framework Ruby on Rails por GitHub, Inc.
 * **GitHub Pages**:
+=======
+* **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
+* **GitHub Pages**: Es un sitio para nuestros proyectos los cuales nos permite tenerlos alojados en una pagina web sin necesidad de tener conocimientos en servidores.
+>>>>>>> d7efb4c2560e9bdab7276c7ea4b05248315c9e99
 
 ## H
 ## I
