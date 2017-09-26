@@ -23,7 +23,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## F
 ## G
 
-* **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
+* **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Utiliza el framework Ruby on Rails por GitHub, Inc.
 * **GitHub Pages**: Es un sitio para nuestros proyectos los cuales nos permite tenerlos alojados en una pagina web sin necesidad de tener conocimientos en servidores.
 
 ## H
@@ -33,7 +33,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 ## J
 
-* **java**:
+* **java**: 
 * **javascript**:
 * **Jekyll**: Es un motor para crear páginas web estáicas. Está escrito en ruby y es de código abierto.
 
